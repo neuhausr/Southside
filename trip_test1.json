@@ -1,0 +1,93 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.2717902,44.9208132]
+      },
+      "properties": {
+        "name": "Southside Family Charter School"
+        "date": "03-23-2014"
+      }
+    },
+        {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.7743419,36.1622257]
+      },
+      "properties": {
+        "name": "Nashville, TN"
+        "date": "03-24-2014"
+      }
+    },
+        {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.8024326,33.5206824]
+      },
+      "properties": {
+        "name": "Birmingham, AL"
+        "date": "03-25-2014"
+      }
+    },
+        {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.2731660232944,32.343799]
+      },
+      "properties": {
+        "name": "Montgomery, AL"
+        "date": "03-26-2014"
+      }
+    },
+        {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.0231317863436,32.417836]
+      },
+      "properties": {
+        "name": "Selma, AL"
+        "date": "03-27-2014"
+      }
+    },
+        {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.2326876,32.0723862]
+      },
+      "properties": {
+        "name": "Americus, GA"
+        "date": "03-28-2014"
+      }
+    },
+        {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.2417611,31.4774455]
+      },
+      "properties": {
+        "name": "Sapelo Island, GA"
+        "date": "03-29-2014"
+      }
+    },
+        {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.1847691,32.2990384]
+      },
+      "properties": {
+        "name": "Jackson, MS"
+        "date": "03-30-2014"
+      }
+    }
+  ]
+}
